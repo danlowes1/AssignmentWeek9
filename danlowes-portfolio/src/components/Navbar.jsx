@@ -36,7 +36,16 @@ export const Navbar = () => {
               className="text-gray-300 hove:text-white transition-colors"
             >
               Contact
-            </a>                  
+            </a> 
+        <div className="m-8 flex items-center justify-center gap-4 text-2xl">
+          <a
+            href="https://linkedin.com/in/samirah-m"
+            target="_blank"
+            rel="noopener"
+          >
+            {/* <FaLinkedin /> */}
+          </a> 
+          </div>                
           </div>
         </div>
       </div>

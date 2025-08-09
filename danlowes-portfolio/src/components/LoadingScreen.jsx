@@ -1,8 +1,9 @@
+// this has been nicked off a YouTube tutorial
 import { useEffect, useState } from "react";
 
 export const LoadingScreen = ({ onComplete }) => {
   const [text, setText] = useState("");
-  const fullText = "Loading...";
+  const fullText = "hang on a sec...";
 
   useEffect(() => {
     let index = 0;
