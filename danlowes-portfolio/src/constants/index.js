@@ -28,7 +28,7 @@ export const PROJECTS = [
     image: github_img,
     description:
       "Website that uses a weather API to display real-time forecasts and conditions for any city worldwide.",
-    technologies: ["Javascript"],
+    technologies: ["JavaScript"],
     link: "https://github.com/AnaisBresle/Legend-HQ",
   },
   {
@@ -36,7 +36,7 @@ export const PROJECTS = [
     image: github_img,
     description:
       "ToDo List is a simple, intuitive webpage that helps you organize, manage, and track your daily tasks efficiently.",
-    technologies: ["Javascript"],
+    technologies: ["JavaScript"],
     link:  "https://github.com/danlowes1/AssignmentWeek4",
   },
 

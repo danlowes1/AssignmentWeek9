@@ -2,11 +2,14 @@
 export const About = () => {
   const frontendSkills = [
     "VB/VBA",
-    ".NET",
+    ".NET technologies",
     "JavaScript",
     "Node JS",
     "React",
-    "Python"  
+    "Python",
+    "SSRS",
+    "Power BI",
+    "MS Access" 
   ];
 
   const backendSkills = [
