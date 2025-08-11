@@ -38,13 +38,13 @@ export const Navbar = () => {
               Contact
             </a> 
         <div className="m-8 flex items-center justify-center gap-4 text-2xl">
-          <a
+          {/* <a
             href="https://linkedin.com/in/samirah-m"
             target="_blank"
             rel="noopener"
           >
-            {/* <FaLinkedin /> */}
-          </a> 
+            <FaLinkedin />
+          </a>  */}
           </div>                
           </div>
         </div>

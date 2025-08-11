@@ -1,12 +1,16 @@
 
 export const About = () => {
   const frontendSkills = [
+    "VB/VBA",
+    ".NET",
+    "Javascript",
+    "Node JS",
     "React",
-    "Javascript"
+    "Python"  
   ];
 
   const backendSkills = [
-    "MySQL", "Python", "MSSQL"
+    "SQL Server", "T-SQL", "Oracle PL/SQL", "MySQL", "Query Optimisation", "Stored Procedures", "SSRS", "SSIS", "SQL Server Management Studio", "Business Intelligence Development Studio (BIDS)", "PL/SQL Developer"  
   ];
 
   return (
@@ -27,7 +31,7 @@ export const About = () => {
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
               <div className="rounded-xl p-6 hover:-translate-y-1 transition-all">
-                <h3 className="text-xl font-bold mb-4"> Frontend</h3>
+                <h3 className="text-xl font-bold mb-4"> Frontend Development</h3>
                 <div className="flex flex-wrap gap-2">
                   {frontendSkills.map((tech, key) => (
                     <span
@@ -43,7 +47,7 @@ export const About = () => {
               </div>
 
               <div className="rounded-xl p-6 hover:-translate-y-1 transition-all">
-                <h3 className="text-xl font-bold mb-4"> Backend</h3>
+                <h3 className="text-xl font-bold mb-4"> Database Development & Management </h3>
                 <div className="flex flex-wrap gap-2">
                   {backendSkills.map((tech, key) => (
                     <span
@@ -67,9 +71,9 @@ export const About = () => {
                 <li>
                   <strong> BSc Technology & Management</strong>  University of Bradford
                 </li>
-                <li>
+                {/* <li>
                  
-                </li>
+                </li> */}
               </ul>
             </div>
             <div className="p-6 rounded-xl border-white/10 border hover:-translate-y-1 transition-all">
