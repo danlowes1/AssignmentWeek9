@@ -1,3 +1,34 @@
+# AssignmentWeek9
+React Portfolio
+
+# React Portfolio
+        ## Description
+
+        Personal portfolio webpage build using React/Vite
+
+        ## Installation
+
+        For dev usage install the following packages:
+        npm install tailwindcss
+        npm install react-icons
+        npm install framer-motion
+        npm install react-icons
+        
+        ## Usage
+        
+
+        ## License
+        **Unlicense**
+
+        Public domain dedication, no restrictions.
+
+        ## Author
+        Dan Lowes
+
+        ## Contact
+        Contact email: dan141@gmail.com.
+                
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.

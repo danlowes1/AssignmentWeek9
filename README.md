@@ -1,8 +1,30 @@
 # AssignmentWeek9
 React Portfolio
-npm install tailwindcss
-npm install react-icons
-npm install framer-motion
 
-    "framer-motion": "^12.23.12", package.json
-        "framer-motion": "^12.23.12",
+# React Portfolio
+        ## Description
+
+        Personal portfolio webpage build using React/Vite
+
+        ## Installation
+
+        For dev usage install the following packages:
+        npm install tailwindcss
+        npm install react-icons
+        npm install framer-motion
+        npm install react-icons
+        
+        ## Usage
+        
+
+        ## License
+        **Unlicense**
+
+        Public domain dedication, no restrictions.
+
+        ## Author
+        Dan Lowes
+
+        ## Contact
+        Contact email: dan141@gmail.com.
+                

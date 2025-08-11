@@ -3,14 +3,14 @@ export const About = () => {
   const frontendSkills = [
     "VB/VBA",
     ".NET",
-    "Javascript",
+    "JavaScript",
     "Node JS",
     "React",
     "Python"  
   ];
 
   const backendSkills = [
-    "SQL Server", "T-SQL", "Oracle PL/SQL", "MySQL", "Query Optimisation", "Stored Procedures", "SSRS", "SSIS", "SQL Server Management Studio", "Business Intelligence Development Studio (BIDS)", "PL/SQL Developer"  
+    "SQL Server", "T-SQL", "Oracle PL/SQL", "MySQL", "Python", "Query Optimisation", "Stored Procedures", "SSRS", "SSIS", "SQL Server Management Studio", "PL/SQL Developer"  
   ];
 
   return (

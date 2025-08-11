@@ -1,3 +1,5 @@
+import { FaLinkedin } from "react-icons/fa";
+
 export const Navbar = () => {
 
   return (
@@ -38,13 +40,13 @@ export const Navbar = () => {
               Contact
             </a> 
         <div className="m-8 flex items-center justify-center gap-4 text-2xl">
-          {/* <a
-            href="https://linkedin.com/in/samirah-m"
+          <a
+            href="https://www.linkedin.com/in/danlowes/"
             target="_blank"
             rel="noopener"
           >
             <FaLinkedin />
-          </a>  */}
+          </a> 
           </div>                
           </div>
         </div>
