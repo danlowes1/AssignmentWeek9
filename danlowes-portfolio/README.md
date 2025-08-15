@@ -12,7 +12,6 @@ React Portfolio
         npm install tailwindcss
         npm install react-icons
         npm install framer-motion
-        npm install react-icons
         
         ## Usage
         
