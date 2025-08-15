@@ -6,9 +6,9 @@ export const About = () => {
     "JavaScript",
     "Node JS",
     "React",
-    "Python",
     "SSRS",
     "Power BI",
+    "SAP Business Objects",
     "MS Access" 
   ];
 
@@ -29,7 +29,7 @@ export const About = () => {
           <div className="rounded-xl p-8 border-white/10 border hover:-translate-y-1 transition-all">
             <p className="text-gray-300 mb-6">
               Passionate developer with expertise in SQL, VB,
-              Javascript applications and creating innovative solutions.
+              JavaScript applications and creating innovative solutions.
             </p>
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
