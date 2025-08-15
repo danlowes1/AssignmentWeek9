@@ -13,12 +13,7 @@ export const Home = () => {
             For over a decade, I have delivered robust software solutions as a database and application developer, with a specialty in MS SQL and VB. I have a proven ability to optimise systems, automate processes, and collaborate with stakeholders to solve complex business challenges.
             I am now leveraging this extensive background and embracing new technologies to become a full-stack developer. My current focus is mastering JavaScript and Python through a dedicated training program. I believe my foundation in data-driven problem-solving offers a unique and powerful perspective, allowing me to build comprehensive applications that are as strong on the front-end as they are on the back-end.         </p>
           <div className="flex justify-center space-x-4">
-            {/* <a
-              href="#projects"
-              className="bg-blue-500 text-white py-3 px-6 rounded font-medium transition relative overflow-hidden hover:-translate-y-0.5 hover:shadow-[0_0_15px_rgba(59, 130, 246, 0.4)]"
-            >
-              View Projects
-            </a> */}
+
 
             <a
               href="#contact"
